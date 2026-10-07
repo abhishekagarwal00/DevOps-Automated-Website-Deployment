@@ -15,7 +15,7 @@ export default function App() {
   return (
     <main className="page">
       <header className="hero">
-        <p className="eyebrow">45-Day Industrial Training · Junior DevOps Intern</p>
+        <p className="eyebrow">60-Day Industrial Training · Junior DevOps Intern</p>
         <h1>DevOps Based Automated Website Deployment</h1>
         <p className="sub">
           Every push to <code>main</code> is tested, built and deployed by GitHub Actions — no manual steps.
