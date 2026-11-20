@@ -6,7 +6,7 @@ describe("App", () => {
   it("renders the project title", () => {
     render(<App />);
     expect(
-      screen.getByRole("heading", { level: 1, name: /DevOps Based Automated Website Deployment/i })
+      screen.getByRole("heading", { level: 1, name: /Wrong Project headline/i })
     ).toBeInTheDocument();
   });
 
